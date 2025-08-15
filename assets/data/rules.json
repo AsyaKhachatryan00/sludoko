@@ -1,0 +1,29 @@
+[
+    {
+        "text": "The game is played on a 9x9 grid divided into 3x3 subgrids."
+    },
+    {
+        "text": "Instead of numbers, use 9 different colors to fill in the grid. Each color should be used once in each row, column, and subgrid."
+    },
+    {
+        "text": "Look at the initial puzzle to see which colors are already filled in the grid."
+    },
+    {
+        "text": "Use logic and deduction skills to fill in the empty spaces with the remaining colors."
+    },
+    {
+        "text": "Each row, column, and subgrid must contain all colors exactly once."
+    },
+    {
+        "text": "Colors must not be repeated in any row, column, or subgrid."
+    },
+    {
+        "text": "For some squares, only one color option may be available, while others may require a process of elimination."
+    },
+    {
+        "text": "To play, simply click or tap on the square where you want to place a color and select the color you want to place in that square."
+    },
+    {
+        "text": "Continue filling the grid with colors until you have filled all the squares according to the rules of the game."
+    }
+]
